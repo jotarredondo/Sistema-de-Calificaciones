@@ -1,0 +1,44 @@
+
+
+Alumno : 15123456 - jose
+ 
+Materia : MATEMATICAS - Promedio : 6,4	 
+
+
+Alumno : 12456789 - ricardo 
+ 
+Materia : LENGUAJE - Promedio : 6,1	 
+
+Materia : HISTORIA - Promedio : 6,1	 
+
+
+Alumno : 15.625.123-1 - Leonardo
+ 
+Materia : MATEMATICAS - Promedio : 4,4	 
+
+Materia : LENGUAJE - Promedio : 5,8	 
+
+
+Alumno : 16.352.145-5 - Raffaella
+ 
+Materia : MATEMATICAS - Promedio : 5,3	 
+
+Materia : LENGUAJE - Promedio : 5,1	 
+
+Materia : HISTORIA - Promedio : 5,4	 
+
+
+Alumno : 16.610.789-3 - Camilo
+ 
+Materia : MATEMATICAS - Promedio : 4,4	 
+
+Materia : LENGUAJE - Promedio : 5,8	 
+
+
+Alumno : 17.030.345-6 - Paloma
+ 
+Materia : MATEMATICAS - Promedio : 5,3	 
+
+Materia : LENGUAJE - Promedio : 5,1	 
+
+Materia : HISTORIA - Promedio : 5,4	 
